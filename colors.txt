@@ -1,0 +1,5 @@
+Old Yellow: #fed136
+Hover Yellow: #fec503
+
+purple: #865b99
+purple 2:#450e5e
